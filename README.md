@@ -1,3 +1,4 @@
 # app-cv-frontend
-CV Builder - Backend
+CV Builder - frontend
 - Nicola & Carlos: TextList Component
+
